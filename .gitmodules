@@ -7,3 +7,6 @@
 [submodule "src/contract/lib/LayerZero-v2"]
 	path = src/contract/lib/LayerZero-v2
 	url = https://github.com/LayerZero-Labs/LayerZero-v2
+[submodule "src/contract/lib/chimera"]
+	path = src/contract/lib/chimera
+	url = https://github.com/Recon-Fuzz/chimera
