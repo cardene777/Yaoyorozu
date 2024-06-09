@@ -1,0 +1,15 @@
+ds-test/=node_modules/@layerzerolabs/toolbox-foundry/lib/ds-test/
+forge-std/=node_modules/@layerzerolabs/toolbox-foundry/lib/forge-std/
+@layerzerolabs/=node_modules/@layerzerolabs/
+@openzeppelin/=node_modules/@openzeppelin/
+@chimera/=lib/chimera/src/
+@axelar-network/=node_modules/@axelar-network/
+@chainlink/=node_modules/@chainlink/
+@eth-optimism/=node_modules/@eth-optimism/
+@uniswap/=node_modules/@uniswap/
+base64-sol/=node_modules/base64-sol/
+chimera/=node_modules/@layerzerolabs/toolbox-foundry/lib/chimera/
+hardhat-deploy/=node_modules/hardhat-deploy/
+hardhat/=node_modules/hardhat/
+solidity-bytes-utils/=node_modules/solidity-bytes-utils/
+v3-periphery/=node_modules/@layerzerolabs/toolbox-foundry/lib/v3-periphery/

@@ -10,3 +10,9 @@
 [submodule "src/contract/lib/chimera"]
 	path = src/contract/lib/chimera
 	url = https://github.com/Recon-Fuzz/chimera
+[submodule "src/contract/node_modules/@layerzerolabs/toolbox-foundry/lib/chimera"]
+	path = src/contract/node_modules/@layerzerolabs/toolbox-foundry/lib/chimera
+	url = https://github.com/Recon-Fuzz/chimera
+[submodule "src/contract/node_modules/@layerzerolabs/toolbox-foundry/lib/v3-periphery"]
+	path = src/contract/node_modules/@layerzerolabs/toolbox-foundry/lib/v3-periphery
+	url = https://github.com/Uniswap/v3-periphery
